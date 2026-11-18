@@ -1,0 +1,23 @@
+{
+  "currency": "USD",
+  "pick": {
+    "per_order": 2.50,
+    "per_extra_item": 0.50
+  },
+  "packaging_fee_per_order": 0.75,
+  "storage_fee_per_bin_per_month": 5.00,
+  "carrier": {
+    "margin_pct": 12,
+    "weight_bands": [
+      {"max_lb": 1,  "cost": 4.50},
+      {"max_lb": 5,  "cost": 7.80},
+      {"max_lb": 10, "cost": 11.20},
+      {"max_lb": 20, "cost": 16.90},
+      {"max_lb": 50, "cost": 29.50}
+    ]
+  },
+  "volume_discount": {
+    "min_monthly_orders": 1000,
+    "pick_discount_pct": 10
+  }
+}

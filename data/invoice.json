@@ -1,0 +1,153 @@
+{
+  "invoice_id": "INV-2026-10-ACME",
+  "merchant": "Acme Home Goods",
+  "period": "2026-10",
+  "monthly_order_volume": 1240,
+  "lines": [
+    {
+      "order_id": "ORD-1001",
+      "pick_fee": 2.5,
+      "pick_discount": 0.25,
+      "packaging_fee": 0.75,
+      "shipping": 5.04
+    },
+    {
+      "order_id": "ORD-1002",
+      "pick_fee": 3.0,
+      "pick_discount": 0.3,
+      "packaging_fee": 0.75,
+      "shipping": 8.74
+    },
+    {
+      "order_id": "ORD-1003",
+      "pick_fee": 2.5,
+      "pick_discount": 0.25,
+      "packaging_fee": 0.75,
+      "shipping": 5.04
+    },
+    {
+      "order_id": "ORD-1004",
+      "pick_fee": 4.0,
+      "pick_discount": 0.4,
+      "packaging_fee": 0.75,
+      "shipping": 12.54
+    },
+    {
+      "order_id": "ORD-1005",
+      "pick_fee": 2.5,
+      "pick_discount": 0.25,
+      "packaging_fee": 0.75,
+      "shipping": 8.74
+    },
+    {
+      "order_id": "ORD-1006",
+      "pick_fee": 3.5,
+      "pick_discount": 0.35,
+      "packaging_fee": 0.75,
+      "shipping": 8.74
+    },
+    {
+      "order_id": "ORD-1007",
+      "pick_fee": 4.0,
+      "pick_discount": 0.35,
+      "packaging_fee": 0.75,
+      "shipping": 8.74
+    },
+    {
+      "order_id": "ORD-1008",
+      "pick_fee": 2.5,
+      "pick_discount": 0.25,
+      "packaging_fee": 0.75,
+      "shipping": 5.04
+    },
+    {
+      "order_id": "ORD-1009",
+      "pick_fee": 5.0,
+      "pick_discount": 0.5,
+      "packaging_fee": 0.75,
+      "shipping": 18.93
+    },
+    {
+      "order_id": "ORD-1010",
+      "pick_fee": 3.0,
+      "pick_discount": 0.3,
+      "packaging_fee": 0.75,
+      "shipping": 8.74
+    },
+    {
+      "order_id": "ORD-1011",
+      "pick_fee": 2.5,
+      "pick_discount": 0.25,
+      "packaging_fee": 0.75,
+      "shipping": 5.04
+    },
+    {
+      "order_id": "ORD-1012",
+      "pick_fee": 3.0,
+      "pick_discount": 0.0,
+      "packaging_fee": 0.75,
+      "shipping": 8.74
+    },
+    {
+      "order_id": "ORD-1013",
+      "pick_fee": 4.5,
+      "pick_discount": 0.45,
+      "packaging_fee": 0.75,
+      "shipping": 12.54
+    },
+    {
+      "order_id": "ORD-1014",
+      "pick_fee": 2.5,
+      "pick_discount": 0.25,
+      "packaging_fee": 0.75,
+      "shipping": 5.04
+    },
+    {
+      "order_id": "ORD-1015",
+      "pick_fee": 6.0,
+      "pick_discount": 0.6,
+      "packaging_fee": 0.75,
+      "shipping": 33.04
+    },
+    {
+      "order_id": "ORD-1016",
+      "pick_fee": 3.0,
+      "pick_discount": 0.3,
+      "packaging_fee": 0.75,
+      "shipping": 8.74
+    },
+    {
+      "order_id": "ORD-1017",
+      "pick_fee": 2.5,
+      "pick_discount": 0.25,
+      "packaging_fee": 0.75,
+      "shipping": 8.74
+    },
+    {
+      "order_id": "ORD-1018",
+      "pick_fee": 3.5,
+      "pick_discount": 0.35,
+      "packaging_fee": 0.75,
+      "shipping": 18.93
+    },
+    {
+      "order_id": "ORD-1019",
+      "pick_fee": 2.5,
+      "pick_discount": 0.25,
+      "packaging_fee": 0.75,
+      "shipping": 5.04
+    },
+    {
+      "order_id": "ORD-1020",
+      "pick_fee": 4.0,
+      "pick_discount": 0.4,
+      "packaging_fee": 0.75,
+      "shipping": 12.54
+    }
+  ],
+  "storage": {
+    "bins": 40,
+    "amount": 200.0
+  },
+  "total": 483.88
+}
